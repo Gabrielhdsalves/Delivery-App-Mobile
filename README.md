@@ -6,7 +6,7 @@ This is the front-end of a mobile delivery application, developed to facilitate 
 
 The **Delivery App** allows users to order food directly from their cell phone. The goal is to offer a clean and simple interface, where the customer can browse different restaurants, choose menu items, customize the order and complete the purchase.
 
-Imagens do projeto: 
+Project images: 
 <div align="center">
    <img src="project-images/Screenshot_1.png" width="200">
    <img src="project-images/Screenshot_3.png" width="200">
@@ -15,9 +15,9 @@ Imagens do projeto:
 
 ## Features
 
-- Tela inicial com lista de restaurantes
-- Tela inicial com lista de alimentos em alta
-- Tela inicial com lista de alimentos famosos
+- Home screen with list of restaurants
+- Home screen with list of trending foods
+- Home screen with list of famous foods
 
 
 ## Technologies Used
