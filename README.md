@@ -32,7 +32,7 @@ For execute the project local, follow the steps bellow
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/seu-usuario/delivery-app.git
+   git clone https://github.com/Gabrielhdsalves/Delivery-App-Mobile.git
    ```
 2. Enter the cloned directory
    ```bash
